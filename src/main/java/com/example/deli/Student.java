@@ -4,6 +4,7 @@ package com.example.deli;
 import jakarta.persistence.*;
 
 @Entity
+@Table(name = "student")
 public class Student {
 
 
